@@ -1407,3 +1407,4 @@ function selectRandomAddress(addresses) {
 		addresses;
 	return addressArray[Math.floor(Math.random() * addressArray.length)];
 }
+【】
